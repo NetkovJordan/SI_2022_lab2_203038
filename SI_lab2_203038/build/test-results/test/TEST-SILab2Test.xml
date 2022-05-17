@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SILab2Test" tests="3" skipped="0" failures="0" errors="0" timestamp="2022-05-17T17:25:23" hostname="DESKTOP-QDTTIGL" time="0.041">
+  <properties/>
+  <testcase name="everyStatementAndEveryBranchThreeTestCases()" classname="SILab2Test" time="0.036"/>
+  <testcase name="everyStatementFourthTestCase()" classname="SILab2Test" time="0.001"/>
+  <testcase name="everyBranchFourthTestCase()" classname="SILab2Test" time="0.002"/>
+  <system-out><![CDATA[Running before test to check if everything is okay
+First test throws exception if list length is 0 or less
+Second test throws exception if list length is not a perfect square
+Testing complete
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
